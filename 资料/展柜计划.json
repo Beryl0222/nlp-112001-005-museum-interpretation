@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c1",
+    "stop": "岭西东厅",
+    "language": "zh",
+    "items": "q-31、a-11",
+    "limit": "100"
+  },
+  {
+    "id": "c2",
+    "stop": "雪线南厅",
+    "language": "en",
+    "items": "q-38、a-11",
+    "limit": "140"
+  },
+  {
+    "id": "c3",
+    "stop": "岭西东厅替补",
+    "language": "zh",
+    "items": "q-38",
+    "limit": "55"
+  }
+]
